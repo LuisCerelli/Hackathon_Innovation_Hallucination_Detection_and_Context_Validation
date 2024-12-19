@@ -1,6 +1,14 @@
-# English:
-# Hackathon Innovation: Hallucination Detection and Context Validation
+<p align="center">
+  <img src="imagenes/HoloScan_Logo.png" alt="Descripción de la imagen" width="300"/>
+</p>
 
+
+# English:
+We are a company specialized in providing guidance on AI-generated hallucinations and text validation, ensuring accuracy and reliability in your content.
+# Español:
+Somos una empresa especializada en brindar asesoramiento en temas de alucinaciones generadas por Inteligencias Artificiales y en la validación de textos, garantizando precisión y confiabilidad en tus contenidos.
+***
+# Hackathon Innovation: Hallucination Detection and Context Validation
 This repository contains the files and scripts used for detecting hallucinations in AI models and validating context through Azure AI and OpenAI. Below is a summary of the main files:
 
 ## Files
