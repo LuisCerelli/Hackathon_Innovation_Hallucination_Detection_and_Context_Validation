@@ -5,7 +5,7 @@ This repository contains the files and scripts used for detecting hallucinations
 
 ## Files
 
-### [01_Conversion_File_Json]([01_Conversion_File_Json](https://github.com/LuisCerelli/Conversion_a_Json_para_Azure_Cognitive_Search.git)
+### [01_Conversion_File_Json](https://github.com/LuisCerelli/Conversion_a_Json_para_Azure_Cognitive_Search.git)
 
 This file contains the script for converting various file formats into JSON, which is the required format for uploading to Azure AI Search.
 
