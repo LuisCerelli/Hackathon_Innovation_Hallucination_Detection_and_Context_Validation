@@ -1,0 +1,3 @@
+[submodule "01_Conversion_File_Json"]
+	path = 01_Conversion_File_Json
+	url = https://github.com/LuisCerelli/Conversion_a_Json_para_Azure_Cognitive_Search.git
