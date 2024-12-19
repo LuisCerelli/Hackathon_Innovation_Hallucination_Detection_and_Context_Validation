@@ -1,0 +1,2 @@
+Accuracy,Precision (Factual),Recall (Factual),F1-Score (Factual),Precision (Alucinación),Recall (Alucinación),F1-Score (Alucinación)
+0.5,0.0,0.0,0.0,0.5,1.0,0.6666666666666666
