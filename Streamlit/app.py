@@ -371,7 +371,7 @@ def chat_app():
         st.write("Evaluando la respuesta con documentos en Azure Search...")
         try:
             puntaje, es_factual, groundtruth = evaluar_respuesta_con_azure(respuesta_modelo, pregunta)
-            st.write(f"Puntaje de confianza: {puntaje}")
+            #st.write(f"Puntaje de confianza: {puntaje}")
         except Exception as e:
             st.error(f"Error al evaluar la respuesta: {e}")
             return
