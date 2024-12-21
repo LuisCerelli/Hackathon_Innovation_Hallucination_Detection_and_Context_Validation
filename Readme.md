@@ -17,6 +17,17 @@ This file includes the process and code necessary to upload JSON files to Azure 
 
 This file implements the model to determine the percentage of hallucination in AI-generated responses. It uses a confusion matrix to display the results, working alongside OpenAI embeddings and Azure AI.
 
+### [04_STREAMLIT](04_Streamlit)
+
+**Access the live application here:**
+
+[![🚀 View the App](https://img.shields.io/badge/🌐-Launch%20App-brightgreen)](https://app-7ahfxywhctwszumhexpetm.streamlit.app/)
+
+This project demonstrates the implementation of a powerful model in **Streamlit**, enabling an interactive and user-friendly experience. The deployed app showcases how data-driven insights can be leveraged seamlessly.
+
+---
+
+
 # Español: 
 # Hackathon Innovation: Hallucination Detection and Context Validation
 
@@ -35,3 +46,10 @@ Este archivo incluye el proceso y el código necesarios para cargar los archivos
 ### [03_Modelo_Alucinacion_y_matriz_confusion](03_Modelo_Alucinacion_y_matriz_confusion)
 
 Este archivo implementa el modelo para determinar el porcentaje de alucinación en las respuestas generadas por IA. Utiliza una matriz de confusión para reflejar los resultados, trabajando en conjunto con embeddings de OpenAI y Azure AI.
+
+### [04_STREAMLIT](04_Streamlit)
+
+👉 **[Inicie la aplicación aquí](https://app-7ahfxywhctwszumhexpetm.streamlit.app/)**
+
+
+Este proyecto muestra la implementación de un modelo potente en **Streamlit**, permitiendo una experiencia interactiva y fácil de usar. La aplicación demuestra cómo aprovechar los datos de manera eficiente.
