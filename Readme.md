@@ -21,7 +21,7 @@ This file implements the model to determine the percentage of hallucination in A
 
 **Access the live application here:**
 
-[![🚀 View the App](https://img.shields.io/badge/🌐-Launch%20App-brightgreen)](https://app-7ahfxywhctwszumhexpetm.streamlit.app/)
+[![🚀 View the App](https://img.shields.io/badge/🌐-Launch%20App-brightgreen)](https://cabm2bkxqwacmvxrenrnx8.streamlit.app/)
 
 This project demonstrates the implementation of a powerful model in **Streamlit**, enabling an interactive and user-friendly experience. The deployed app showcases how data-driven insights can be leveraged seamlessly.
 
@@ -49,7 +49,7 @@ Este archivo implementa el modelo para determinar el porcentaje de alucinación 
 
 ### [04_STREAMLIT](04_Streamlit)
 
-👉 **[Inicie la aplicación aquí](https://app-7ahfxywhctwszumhexpetm.streamlit.app/)**
+👉 **[Inicie la aplicación aquí](https://cabm2bkxqwacmvxrenrnx8.streamlit.app/)**
 
 
 Este proyecto muestra la implementación de un modelo potente en **Streamlit**, permitiendo una experiencia interactiva y fácil de usar. La aplicación demuestra cómo aprovechar los datos de manera eficiente.
